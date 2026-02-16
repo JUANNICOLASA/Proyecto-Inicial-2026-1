@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lid
+comment0.text=\r\n\ Representa\ una\ tapa\ en\ el\ simulador\ de\ Stacking\ Cups.\r\n\ Esta\ clase\ maneja\ la\ representaci\u00F3n\ visual\ y\ el\ posicionamiento\ de\ una\ tapa.\r\n\ *\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n\ @version\ 1.0\ (Ciclo\ 1)\r\n
+comment1.params=size\ color
+comment1.target=Lid(int,\ java.lang.String)
+comment1.text=\r\n\ Crea\ una\ nueva\ tapa\ con\ un\ tama\u00F1o\ y\ color\ espec\u00EDficos.\r\n\ *\ @param\ size\ El\ tama\u00F1o\ num\u00E9rico\ de\ la\ tapa\ (1,\ 2,\ 3...)\r\n\ @param\ color\ El\ color\ de\ la\ tapa\ (ej.\ "red",\ "blue")\r\n
+comment2.params=targetX\ targetY
+comment2.target=void\ setPosition(int,\ int)
+comment2.text=\r\n\ Mueve\ la\ tapa\ a\ una\ posici\u00F3n\ absoluta\ (x,\ y)\ en\ el\ Canvas.\r\n\ Calcula\ internamente\ el\ desplazamiento\ relativo\ necesario.\r\n\ *\ @param\ targetX\ La\ coordenada\ X\ central\ deseada.\r\n\ @param\ targetY\ La\ coordenada\ Y\ superior\ deseada.\r\n
+comment3.params=
+comment3.target=Rectangle\ getVisual()
+comment3.text=\r\n\ Obtiene\ el\ objeto\ Rectangle\ visual\ asociado\ a\ esta\ tapa.\r\n\ @return\ El\ objeto\ Rectangle.\r\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=\r\n\ Obtiene\ el\ tama\u00F1o\ num\u00E9rico\ de\ la\ tapa.\r\n\ @return\ El\ tama\u00F1o.\r\n
+comment5.params=
+comment5.target=int\ getHeight()
+comment5.text=\r\n\ Obtiene\ la\ altura\ visual\ de\ la\ tapa.\r\n\ @return\ La\ altura\ en\ p\u00EDxeles.\r\n
+numComments=6

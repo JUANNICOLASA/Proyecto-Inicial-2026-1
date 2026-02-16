@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cup
+comment0.text=\r\n\ Representa\ una\ taza\ en\ el\ simulador\ de\ Stacking\ Cups.\r\n\ Utiliza\ composici\u00F3n\ sobre\ la\ clase\ Rectangle\ del\ paquete\ shapes\ para\ dibujarse.\r\n\ *\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n\ @version\ 1.0\ (Ciclo\ 1)\r\n
+comment1.params=size\ color
+comment1.target=Cup(int,\ java.lang.String)
+comment1.text=\r\n\ Crea\ una\ nueva\ taza\ con\ un\ tama\u00F1o\ y\ color\ espec\u00EDficos.\r\n\ *\ @param\ size\ El\ tama\u00F1o\ num\u00E9rico\ de\ la\ taza\ (1,\ 2,\ 3...)\r\n\ @param\ color\ El\ color\ de\ la\ taza\ (ej.\ "red",\ "blue")\r\n
+comment2.params=targetX\ targetY
+comment2.target=void\ setPosition(int,\ int)
+comment2.text=\r\n\ Mueve\ la\ taza\ a\ una\ posici\u00F3n\ absoluta\ (x,\ y)\ en\ el\ Canvas.\r\n\ Calcula\ internamente\ el\ desplazamiento\ relativo\ necesario.\r\n\ *\ @param\ targetX\ La\ coordenada\ X\ central\ deseada.\r\n\ @param\ targetY\ La\ coordenada\ Y\ superior\ deseada.\r\n
+comment3.params=visible
+comment3.target=void\ setVisible(boolean)
+comment3.text=\r\n\ Cambia\ la\ visibilidad\ de\ la\ taza.\r\n\ @param\ visible\ true\ para\ mostrar,\ false\ para\ ocultar.\r\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=\r\n\ Obtiene\ el\ tama\u00F1o\ num\u00E9rico\ de\ la\ taza.\r\n\ @return\ El\ tama\u00F1o.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment5.text=\r\n\ Obtiene\ el\ color\ de\ la\ taza.\r\n\ @return\ El\ nombre\ del\ color.\r\n
+comment6.params=
+comment6.target=int\ getHeight()
+comment6.text=\r\n\ Obtiene\ la\ altura\ visual\ de\ la\ taza.\r\n\ @return\ La\ altura\ en\ p\u00EDxeles.\r\n
+numComments=7
