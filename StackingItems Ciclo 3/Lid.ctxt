@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Lid
+comment0.text=\r\n\ Representa\ una\ tapa.\ Hereda\ de\ TowerItem.\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=size\ color
+comment1.target=Lid(int,\ java.lang.String)
+comment2.params=targetX\ targetY
+comment2.target=void\ setPosition(int,\ int)
+comment3.params=visible
+comment3.target=void\ setVisible(boolean)
+comment4.params=
+comment4.target=int\ getHeight()
+comment5.params=
+comment5.target=java.lang.String\ getTypeString()
+comment6.params=itemBelow
+comment6.target=int\ getAddedHeightWhenPlacedOn(TowerItem)
+comment7.params=itemBelow
+comment7.target=boolean\ canCover(TowerItem)
+comment8.params=covered
+comment8.target=void\ setCovered(boolean)
+numComments=9

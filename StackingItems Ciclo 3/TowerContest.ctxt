@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TowerContest
+comment0.text=\r\n\ Solucionador\ del\ Problema\ J\ de\ la\ marat\u00F3n\ ICPC\ (Stacking\ Cups).\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=
+comment1.target=TowerContest()
+comment2.params=n\ h
+comment2.target=java.lang.String\ solve(int,\ int)
+comment2.text=\r\n\ Resuelve\ el\ problema\ matem\u00E1tico\ usando\ suma\ de\ subconjuntos\ de\ tazas.\r\n
+comment3.params=V\ k
+comment3.target=java.util.ArrayList\ findSubset(long,\ int)
+comment3.text=\r\n\ Algoritmo\ codicioso\ din\u00E1mico\ para\ hallar\ la\ combinaci\u00F3n\ exacta\ de\ alturas.\r\n
+comment4.params=n\ subset\ method
+comment4.target=java.lang.String\ buildOutput(int,\ java.util.ArrayList,\ int)
+comment5.params=n\ h
+comment5.target=void\ simulate(int,\ int)
+comment5.text=\r\n\ Simula\ visualmente\ la\ soluci\u00F3n\ dictada\ por\ solve().\r\n
+numComments=6

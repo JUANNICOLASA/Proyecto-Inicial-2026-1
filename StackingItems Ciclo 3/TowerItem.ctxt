@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=TowerItem
+comment0.text=\r\n\ Clase\ abstracta\ que\ define\ el\ contrato\ para\ cualquier\ pieza\ de\ la\ torre.\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=size\ color
+comment1.target=TowerItem(int,\ java.lang.String)
+comment10.params=covered
+comment10.target=void\ setCovered(boolean)
+comment10.text=\r\n\ Define\ c\u00F3mo\ reacciona\ visualmente\ el\ objeto\ si\ alguien\ lo\ tapa.\r\n
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=x\ y
+comment4.target=void\ setPosition(int,\ int)
+comment5.params=visible
+comment5.target=void\ setVisible(boolean)
+comment6.params=
+comment6.target=int\ getHeight()
+comment7.params=
+comment7.target=java.lang.String\ getTypeString()
+comment8.params=itemBelow
+comment8.target=int\ getAddedHeightWhenPlacedOn(TowerItem)
+comment8.text=\r\n\ Define\ cu\u00E1nta\ altura\ aporta\ este\ objeto\ al\ caer\ sobre\ otro.\r\n
+comment9.params=itemBelow
+comment9.target=boolean\ canCover(TowerItem)
+comment9.text=\r\n\ Define\ si\ este\ objeto\ tiene\ la\ capacidad\ l\u00F3gica\ de\ tapar\ al\ de\ abajo.\r\n
+numComments=11
