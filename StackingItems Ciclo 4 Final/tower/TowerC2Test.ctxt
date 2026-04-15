@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TowerC2Test
+comment0.text=\r\n\ Suite\ de\ pruebas\ unitarias\ para\ validar\ la\ extensi\u00F3n\ del\ Ciclo\ 2\ \r\n\ del\ simulador\ Stacking\ Cups\ en\ modo\ invisible.\r\n\ *\ @author\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n\ @version\ 2.0\ (Ciclo\ 2)\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Configuraci\u00F3n\ inicial\ para\ cada\ prueba\ unitaria.\r\n\ Se\ instancia\ la\ torre\ asegurando\ que\ se\ ejecute\ en\ "modo\ invisible"\ \r\n\ como\ lo\ estipula\ el\ requisito\ de\ entrega.\r\n
+comment2.params=
+comment2.target=void\ accordingARShouldCreateTower()
+comment2.text=\r\n\ Prueba\ que\ el\ sistema\ genere\ exitosamente\ una\ torre\ iterativa\ de\ tazas\ \r\n\ utilizando\ el\ nuevo\ m\u00E9todo\ create.\r\n
+comment3.params=
+comment3.target=void\ accordingARShouldNotSwapInvalidIndices()
+comment3.text=\r\n\ Prueba\ la\ robustez\ del\ sistema\ validando\ que\ NO\ lance\ excepciones\ no\ controladas\ \r\n\ al\ intentar\ hacer\ swap\ con\ \u00EDndices\ fuera\ del\ tama\u00F1o\ de\ la\ lista.\r\n
+comment4.params=
+comment4.target=void\ accordingARShouldSwapValidPositions()
+comment4.text=\r\n\ Prueba\ que\ el\ sistema\ permita\ permutar\ correctamente\ la\ posici\u00F3n\ \r\n\ l\u00F3gica\ de\ dos\ elementos\ de\ la\ torre.\r\n
+comment5.params=
+comment5.target=void\ accordingARShouldCoverMatchingCups()
+comment5.text=\r\n\ Prueba\ que\ el\ sistema\ busque\ activamente\ las\ tapas\ compatibles\ en\ la\ estructura\ \r\n\ y\ las\ posiciones\ de\ manera\ autom\u00E1tica\ sobre\ sus\ tazas.\r\n
+comment6.params=
+comment6.target=void\ accordingARShouldReturnSwapToReduceHeight()
+comment6.text=\r\n\ Prueba\ algor\u00EDtmica\ de\ la\ funci\u00F3n\ consultiva\ que\ verifica\ escenarios\ de\ \r\n\ optimizaci\u00F3n\ de\ altura\ evaluando\ permutaciones.\r\n
+comment7.params=
+comment7.target=void\ accordingARShouldNotReduceHeightIfAlreadyOptimized()
+comment7.text=\r\n\ Prueba\ de\ frontera\ que\ asegura\ que\ el\ sistema\ NO\ invente\ movimientos\ \r\n\ cuando\ la\ torre\ ya\ est\u00E1\ optimizada\ o\ compactada\ al\ m\u00E1ximo\ de\ su\ capacidad.\r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CrazyLid
+comment0.text=\r\n\ Representa\ una\ tapa\ loca.\ Ignora\ la\ gravedad\ est\u00E1ndar\ y\ al\ ingresar\ siempre\ se\ posiciona\ como\ la\ base\ absoluta\ de\ la\ torre\ (\u00EDndice\ 0).\r\n
+comment1.params=size\ color
+comment1.target=CrazyLid(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ CrazyLid.\r\n\ @param\ size\ El\ tama\u00F1o\ l\u00F3gico\ de\ la\ tapa.\r\n\ @param\ color\ El\ color\ visual\ de\ la\ tapa.\r\n
+numComments=2

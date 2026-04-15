@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TowerC4Test
+comment0.text=\r\n\ Suite\ de\ pruebas\ de\ unidad\ para\ validar\ la\ extensi\u00F3n\ del\ Ciclo\ 4.\r\n\ Eval\u00FAa\ los\ comportamientos\ individuales\ de\ las\ piezas\ especiales.\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ accordingARShouldDestroyLidsWithOpener()
+comment3.params=
+comment3.target=void\ accordingARShouldSinkHierarchicalAndPreventRemoval()
+comment4.params=
+comment4.target=void\ accordingARShouldRestrictFearfulLid()
+comment5.params=
+comment5.target=void\ accordingARShouldPutCrazyLidAtBase()
+numComments=6

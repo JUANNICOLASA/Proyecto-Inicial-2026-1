@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TowerContest
+comment0.text=\r\n\ Solucionador\ del\ Problema\ J\ de\ la\ marat\u00F3n\ ICPC\ (Stacking\ Cups).\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=
+comment1.target=TowerContest()
+comment1.text=\r\n\ Constructor\ por\ defecto\ del\ solucionador\ de\ ICPC.\ Instancia\ una\ torre\ base.\r\n
+comment2.params=n\ h
+comment2.target=java.lang.String\ solve(int,\ int)
+comment2.text=\r\n\ Resuelve\ matem\u00E1ticamente\ el\ problema\ de\ sumar\ subconjuntos\ de\ tazas.\r\n\ @param\ n\ El\ n\u00FAmero\ total\ de\ tazas\ disponibles.\r\n\ @param\ h\ La\ altura\ requerida\ que\ se\ debe\ alcanzar.\r\n\ @return\ Una\ cadena\ de\ texto\ con\ la\ disposici\u00F3n\ requerida\ de\ las\ tazas\ separadas\ por\ espacios,\ o\ "impossible"\ si\ no\ hay\ soluci\u00F3n.\r\n
+comment3.params=V\ k
+comment3.target=java.util.ArrayList\ findSubset(long,\ int)
+comment3.text=\r\n\ Algoritmo\ auxiliar\ para\ hallar\ la\ combinaci\u00F3n\ exacta\ de\ alturas\ necesarias.\r\n\ @param\ V\ El\ valor\ delta\ a\ compensar.\r\n\ @param\ k\ El\ l\u00EDmite\ de\ elementos\ evaluados.\r\n\ @return\ Lista\ de\ enteros\ que\ componen\ el\ subconjunto,\ o\ null\ si\ falla.\r\n
+comment4.params=n\ subset\ method
+comment4.target=java.lang.String\ buildOutput(int,\ java.util.ArrayList,\ int)
+comment5.params=n\ h
+comment5.target=void\ simulate(int,\ int)
+comment5.text=\r\n\ Simula\ visualmente\ en\ el\ lienzo\ la\ soluci\u00F3n\ obtenida\ por\ el\ m\u00E9todo\ solve().\r\n\ @param\ n\ El\ n\u00FAmero\ total\ de\ tazas.\r\n\ @param\ h\ La\ altura\ objetivo\ de\ la\ torre\ a\ simular.\r\n
+numComments=6

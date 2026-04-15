@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ A\ circle\ that\ can\ be\ manipulated\ and\ that\ draws\ itself\ on\ a\ canvas.\r\n
+comment1.params=
+comment1.target=Circle()
+comment2.params=newDiameter
+comment2.target=void\ changeSize(int)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ erase()
+numComments=5

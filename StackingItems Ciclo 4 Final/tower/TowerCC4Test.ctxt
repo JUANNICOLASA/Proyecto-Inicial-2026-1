@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TowerCC4Test
+comment0.text=\r\n\ Pruebas\ de\ integraci\u00F3n\ com\u00FAn\ (Casos\ complejos\ e\ interacci\u00F3n\ de\ piezas).\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ accordingARShouldHandleCrazyAndHierarchicalConflict()
+comment3.params=
+comment3.target=void\ accordingARShouldProtectFearfulFromOpenerIfUnrelated()
+numComments=4

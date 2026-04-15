@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Lid
+comment0.text=\r\n\ Representa\ una\ tapa\ est\u00E1ndar\ en\ el\ simulador.\ \r\n\ Hereda\ de\ TowerItem\ y\ tiene\ la\ capacidad\ de\ cubrir\ tazas\ del\ mismo\ tama\u00F1o.\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=size\ color
+comment1.target=Lid(int,\ java.lang.String)
+comment1.text=\r\n\ Construye\ una\ tapa\ con\ el\ tama\u00F1o\ y\ color\ especificados.\r\n\ @param\ size\ El\ tama\u00F1o\ de\ la\ tapa.\r\n\ @param\ color\ El\ color\ visual\ de\ la\ tapa.\r\n
+comment2.params=targetX\ targetY
+comment2.target=void\ setPosition(int,\ int)
+comment3.params=visible
+comment3.target=void\ setVisible(boolean)
+comment4.params=
+comment4.target=int\ getHeight()
+comment5.params=
+comment5.target=java.lang.String\ getTypeString()
+comment6.params=itemBelow
+comment6.target=int\ getAddedHeightWhenPlacedOn(TowerItem)
+comment7.params=itemBelow
+comment7.target=boolean\ canCover(TowerItem)
+comment8.params=covered
+comment8.target=void\ setCovered(boolean)
+numComments=9

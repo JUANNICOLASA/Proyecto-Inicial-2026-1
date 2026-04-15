@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FearfulLid
+comment0.text=\r\n\ Representa\ una\ tapa\ miedosa.\ Solo\ puede\ ingresar\ a\ la\ torre\ si\ su\ taza\ correspondiente\ del\ mismo\ tama\u00F1o\ ya\ existe.\r\n\ Tiene\ la\ restricci\u00F3n\ de\ que,\ si\ actualmente\ est\u00E1\ cubriendo\ a\ su\ taza,\ no\ se\ dejar\u00E1\ extraer.\r\n
+comment1.params=size\ color
+comment1.target=FearfulLid(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ FearfulLid.\r\n\ @param\ size\ El\ tama\u00F1o\ l\u00F3gico\ de\ la\ tapa.\r\n\ @param\ color\ El\ color\ visual\ de\ la\ tapa.\r\n
+numComments=2

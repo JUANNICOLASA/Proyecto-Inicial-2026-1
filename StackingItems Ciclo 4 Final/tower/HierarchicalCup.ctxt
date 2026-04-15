@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HierarchicalCup
+comment0.text=\r\n\ Representa\ una\ taza\ jer\u00E1rquica.\ Al\ ingresar,\ se\ hunde\ hasta\ el\ fondo\ desplazando\ a\ cualquier\ elemento\ de\ menor\ tama\u00F1o.\r\n\ Posee\ la\ restricci\u00F3n\ de\ que\ si\ alcanza\ la\ base\ (\u00EDndice\ 0),\ no\ puede\ ser\ extra\u00EDda\ de\ la\ torre.\r\n
+comment1.params=size\ color
+comment1.target=HierarchicalCup(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ HierarchicalCup.\r\n\ @param\ size\ El\ tama\u00F1o\ l\u00F3gico\ de\ la\ taza.\r\n\ @param\ color\ El\ color\ visual\ de\ la\ taza.\r\n
+numComments=2

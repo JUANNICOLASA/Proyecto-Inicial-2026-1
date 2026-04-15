@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Cup
+comment0.text=\r\n\ Representa\ una\ taza\ est\u00E1ndar\ del\ simulador.\ \r\n\ Hereda\ de\ TowerItem\ y\ puede\ contener\ a\ otras\ tazas\ o\ ser\ tapada\ por\ una\ tapa\ compatible.\r\n\ @authors\ Juan\ Nicol\u00E1s\ \u00C1lvarez,\ Leonardo\ Rojas\r\n
+comment1.params=size\ color
+comment1.target=Cup(int,\ java.lang.String)
+comment1.text=\r\n\ Construye\ una\ taza\ con\ el\ tama\u00F1o\ y\ color\ especificados.\r\n\ @param\ size\ El\ tama\u00F1o\ de\ la\ taza.\r\n\ @param\ color\ El\ color\ visual\ de\ la\ taza.\r\n
+comment10.params=itemBelow
+comment10.target=boolean\ canCover(TowerItem)
+comment2.params=targetX\ targetY
+comment2.target=void\ setPosition(int,\ int)
+comment3.params=
+comment3.target=void\ setFullySealed()
+comment3.text=\r\n\ Define\ si\ el\ contenido\ interior\ de\ la\ taza\ est\u00E1\ completamente\ sellado\ visualmente.\r\n\ @param\ sealed\ true\ si\ est\u00E1\ sellado,\ false\ si\ no.\r\n
+comment4.params=covered
+comment4.target=void\ setCovered(boolean)
+comment5.params=visible
+comment5.target=void\ setVisible(boolean)
+comment6.params=
+comment6.target=void\ updateVisibility()
+comment7.params=
+comment7.target=int\ getHeight()
+comment8.params=
+comment8.target=java.lang.String\ getTypeString()
+comment9.params=itemBelow
+comment9.target=int\ getAddedHeightWhenPlacedOn(TowerItem)
+numComments=11
